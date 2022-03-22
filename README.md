@@ -2,8 +2,8 @@
  
 <div align="center">
   <a href="https://github.com/guilhermeabraob">
-  <img width="46%" height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeabraob&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width="52%" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeabraob&layout=compact&langs_count=7&theme=blue-green"/>
+  <img width="48%" height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeabraob&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img width="51%" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeabraob&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Gui-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>   
