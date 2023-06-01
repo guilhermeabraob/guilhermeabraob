@@ -1,4 +1,4 @@
-## Olá, sejam bem-vindos! Sou o Guilherme Abrão B, estudante de Programação (Full Stack - Phyton). 
+## Olá, sejam bem-vindos!
  
 <div align="center">
   <a href="https://github.com/guilhermeabraob">
